@@ -1,4 +1,4 @@
-# gallery_app_1
+# Gallery Flutter App
 
 ## About
 This is a simple app for gallery view using api and MVC pattern.
